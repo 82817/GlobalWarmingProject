@@ -11,7 +11,6 @@
 
 I believe a good visualization should do a good job in all three criterias; however, not all visualizations are good and I will explain the good/bad of each chart.
 
-https://www.climatecentral.org/gallery/graphics/co2-and-rising-global-temperatures
 ![Temperature & Carbon Dioxide](https://github.com/82817/GlobalWarmingProject/blob/master/images/1_global_temperature_carbon_dioxide.jpg)
 
 
@@ -23,7 +22,6 @@ https://www.climatecentral.org/gallery/graphics/co2-and-rising-global-temperatur
 
 Score: (2.5/3)
 
-https://www.climatecentral.org/gallery/graphics/the-10-hottest-global-years-on-record
 ![Hottest Years](https://github.com/82817/GlobalWarmingProject/blob/master/images/2_hottest_years.jpg)
 
 
@@ -35,7 +33,6 @@ https://www.climatecentral.org/gallery/graphics/the-10-hottest-global-years-on-r
 
 Score: (3/3)
 
-https://climate.nasa.gov/evidence/
 ![Current CO2 Level](https://github.com/82817/GlobalWarmingProject/blob/master/images/3_co2_level.jpg)
 
 
@@ -50,7 +47,6 @@ Score: (3/3)
 ![Against global wamring](https://github.com/82817/GlobalWarmingProject/blob/master/images/4_sea_level_rising.gif)
 
 
-
 **Audience**: This website is a commercial blog hosted by a writer. By briefing through the content of this blog, one can tell that this image is arguing against global warming. One can assume that the audience is either people who do not believe in global warming, or people who are skeptic. I'm skeptical about this chart, but I believe it does address directly to its audience (1/1)
 
 **framework**: This chart has some confusing parts to it. It does not explain the grey shading on the left side (I'm guessing the grey are variations). In addition, the line on the right going through sea-level is also undefined. Overall, the framework confusing. (0/1)
@@ -60,7 +56,6 @@ Score: (3/3)
 Score: (1/3)
 
 ![Human produced greenhouse gas](https://github.com/82817/GlobalWarmingProject/blob/master/images/5_greenhouse_gas.jpg)
-
 
 
 **Audience**: This chart is made by NOAA Climate.gov. Their purpose is to promote public understanding of climate science. Their audience is the general public. I believe the chart does a good job at educating the public while keeping it simple. (1/1)
